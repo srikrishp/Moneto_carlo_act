@@ -40,3 +40,24 @@ NumPy – for random number generation and array operations
 Matplotlib – for data visualization
 
 SciPy – for probability functions and distributions
+
+📊 Example Results
+
+The Monte Carlo method produces an empirical estimate of probabilities that converge closer to theoretical values as the number of trials increases.
+For instance:
+
+Estimated value of π ≈ 3.1416 (after 1,000,000 iterations)
+
+Probability of rolling a 6 on a die ≈ 0.1667
+
+# Learning Outcomes
+
+Improved understanding of probabilistic simulations
+
+Hands-on practice with randomness and convergence
+
+Practical application of Python in mathematical modeling
+
+# License
+
+This project is licensed under the MIT License – feel free to use and modify it for educational or research purposes.
