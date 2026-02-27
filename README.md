@@ -41,7 +41,7 @@ Matplotlib – for data visualization
 
 SciPy – for probability functions and distributions
 
-📊 Example Results
+# Example Results
 
 The Monte Carlo method produces an empirical estimate of probabilities that converge closer to theoretical values as the number of trials increases.
 For instance:
