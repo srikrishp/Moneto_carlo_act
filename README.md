@@ -58,6 +58,8 @@ Hands-on practice with randomness and convergence
 
 Practical application of Python in mathematical modeling
 
+IITM Statistics corse really helped me a lot to improve my Statistics skills
+
 # License
 
 This project is licensed under the MIT License – feel free to use and modify it for educational or research purposes.
