@@ -39,7 +39,7 @@ NumPy – for random number generation and array operations
 
 Matplotlib – for data visualization
 
-SciPy – for probability functions and distributions
+SciPy – for probability functions and distributions and statistical functions
 
 # Example Results
 
